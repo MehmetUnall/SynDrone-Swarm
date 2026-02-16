@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "SynDrone-Swarm v1.0.0"
+authors:
+  - family-names: "Unal"
+    given-names: "Muhammed Mehmet"
+version: "1.0.0"
+year: 2026
+repository-code: "https://github.com/MehmetUnall/SynDrone-Swarm"
+url: "https://github.com/MehmetUnall/SynDrone-Swarm/releases/tag/v1.0.0"

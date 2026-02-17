@@ -52,6 +52,11 @@ SynDrone-Swarm/
 - **Bounding boxes (YOLO):** `cam-EGOxx/labels/*.txt` (normalised coordinates)
 - **Telemetry:** `telemetry.csv` at each scenario root (per-frame drone states, roles, intent fields, etc.)
 
+## Sample (quick inspection)
+A lightweight sample subset is provided under `sample/` to enable quick inspection without downloading the full release archives.
+It includes 15 consecutive frames (with corresponding YOLO labels and per-frame JSON) from `A-DEN/cam-EGO01` and `B-DEN/cam-EGO01`,
+plus the scenario-level `telemetry.csv` files.
+
 ## Downloading the full dataset (GitHub Releases)
 The full dataset is distributed as split archives (**each < 2 GiB**) plus SHA256 checksums.
 
